@@ -1,0 +1,24 @@
+#info{
+    list-style:none;
+}
+.fig{
+    width: 5em;
+    height: 5em;
+    border-radius: 100%;
+    border: solid;
+}
+#img{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+.info{
+    font-weight: bold;
+
+}
+.fig,#info{
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
